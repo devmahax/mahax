@@ -1,4 +1,4 @@
-Hello! I am Mahax, a developer and member of the [redephoenix](https://redephoenixrpg.online/) team. I have experience in various technologies.
+Hello! I am Mahax, a developer and member of the [phoenixrpg](https://beta.phoenixrpg.com/) team. I have experience in various technologies.
 
 ### Languages
 
